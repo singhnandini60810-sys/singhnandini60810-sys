@@ -1077,9 +1077,21 @@ Worked as a core contributor responsible for designing user interfaces, validati
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=singhnandini60810-sys&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+<a href="https://github.com/singhnandini60810-sys">
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api?username=singhnandini60810-sys&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+    alt="Nandini Singh GitHub statistics"
+  />
+</a>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhnandini60810-sys&layout=compact&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/singhnandini60810-sys">
+  <img
+    width="48%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=singhnandini60810-sys&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Nandini Singh most-used languages"
+  />
+</a>
 
 </div>
 
@@ -1087,12 +1099,12 @@ Worked as a core contributor responsible for designing user interfaces, validati
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=singhnandini60810-sys&theme=tokyonight&hide_border=true"/>
+<img
+  src="https://streak-stats.demolab.com?user=singhnandini60810-sys&theme=tokyonight&hide_border=true"
+  alt="Nandini Singh GitHub streak"
+/>
 
 </div>
-
----
-
 # GitHub Trophies
 
 <div align="center">
