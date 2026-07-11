@@ -1113,17 +1113,29 @@ Worked as a core contributor responsible for designing user interfaces, validati
 
 ---
 
-# Contribution Snake
+### Contribution Snake
 
 <div align="center">
 
-> **Enable GitHub Actions in your profile repository and use the workflow below to generate the snake animation automatically.**
-
-<img src="https://raw.githubusercontent.com/singhnandini60810-sys/singhnandini60810-sys/output/github-contribution-grid-snake-dark.svg"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/singhnandini60810-sys/singhnandini60810-sys/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/singhnandini60810-sys/singhnandini60810-sys/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="Nandini Singh GitHub contribution snake"
+    src="https://raw.githubusercontent.com/singhnandini60810-sys/singhnandini60810-sys/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
 
 ---
+
 
 # Current Focus
 
